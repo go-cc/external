@@ -1,3 +1,6 @@
 [submodule "pinyin-hotoo"]
 	path = pinyin-hotoo
 	url = https://github.com/hotoo/pinyin.git
+[submodule "jianfan-opencc"]
+	path = jianfan-opencc
+	url = https://github.com/BYVoid/OpenCC.git
