@@ -4,3 +4,6 @@
 [submodule "jianfan-opencc"]
 	path = jianfan-opencc
 	url = https://github.com/BYVoid/OpenCC.git
+[submodule "pinyin-mozillazg"]
+	path = pinyin-mozillazg
+	url = https://github.com/mozillazg/pinyin-data.git
